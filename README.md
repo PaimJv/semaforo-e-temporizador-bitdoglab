@@ -68,4 +68,4 @@ Durante o ciclo, o botão não pode ser pressionado novamente até que os LEDs s
 1. Navegue até a pasta `semaforo-bitdoglab`
 2. Compile o código utilizando o SDK do Pico
 3. Abra o `diagram.json` e execute
-4. O sistema iniciará automaticamente
+4. Pressione o botão para iniciar a sequência dos LEDs
